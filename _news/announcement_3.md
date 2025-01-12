@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Interned with Johnson & Johnson 😃
+Interned with [Johnson & Johnson](https://thenext.jnjmedtech.com/)

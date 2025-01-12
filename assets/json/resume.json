@@ -6,7 +6,7 @@
     "email": "amp10162@nyu.edu",
     "phone": "347.401.7880",
     "url": "https://www.anuj3509.github.io",
-    "summary": "Graduate student at New York University with a solid foundation in Data Science, AI/ML and Wireless Communications",
+    "summary": "Graduate student at New York University with a solid foundation in AI/ML, Data Science and Wireless Communications",
     "location": {
       "address": "1062 62nd St",
       "postalCode": "NY 11219",
@@ -75,7 +75,7 @@
       "url": "https://iocl.com/",
       "startDate": "2022-05-20",
       "endDate": "2022-07-16",
-      "summary": "Examined MPLS and SD-WAN technologies in the M(IS) department at Gujarat Refinery & Optimized the intricate operations of the preliminary refining pipelines in Atmospheric Unit (AU) IV.",
+      "summary": "Examined MPLS and SD-WAN technologies in the M(IS) department & optimized the intricate operations of the preliminary refining pipelines in Atmospheric Unit (AU) IV.",
       "highlights": ["Network Design and Security", "TCP/IP, Wireshark, Bash"]
     }
   ],
@@ -86,7 +86,7 @@
       "location": "Ahmedabad, India",
       "position": "Administrative Assistant",
       "url": "https://bpaindia.org",
-      "startDate": "2015-04-01",
+      "startDate": "2022-08-10",
       "endDate": "2023-07-10",
       "summary": "Supervised activities at Rasotsav-22 for the Blind People’s Association and taught Science, Math, Computer, and Chess to ~100 students requiring special needs in grades 9-12.",
       "highlights": ["Awarded 'Best Organizer' for Rasotsav-22.", "Directly managed 15+ events impacting 100+ children with distinct support needs and 100+ volunteers."]
@@ -117,7 +117,7 @@
       "position": "LAUNCH Peer Mentor",
       "url": "",
       "startDate": "2024-09-12",
-      "endDate": "2025-10-24",
+      "endDate": "2024-10-24",
       "summary": "Mentored 12 first-year graduate students at NYU Tandon, organizing workshops on time management, networking, and leadership to support their academic and professional growth.",
       "highlights": ["Awarded $700 in recognition for exceptional mentorship and leadership."]
     }
@@ -130,19 +130,20 @@
       "url": "https://engineering.nyu.edu/life-tandon/student-life/leadership-opportunities",
       "summary": "Recognized for outstanding leadership initiatives and student engagement at NYU Tandon School of Engineering."
     },
-    {
-      "title": "NYU Merit Scholarship",
-      "date": "2023-09-05",
-      "awarder": "New York University",
-      "url": "https://www.linkedin.com/in/panuj/details/honors/",
-      "summary": "Received $8000/yr in recognition of previous academic achievements."
-    },
+    
     {
       "title": "NYU Tandon Ambassador Scholarship",
       "date": "2024-05-20",
       "awarder": "New York University",
       "url": "https://engineering.nyu.edu/admissions/graduate/connect",
-      "summary": "Received $4300 in recognition for being a NYU Tandon Ambassador."
+      "summary": "Awarded $4300 in recognition for being a NYU Tandon Ambassador."
+    },
+    {
+      "title": "NYU Merit Scholarship",
+      "date": "2023-09-05",
+      "awarder": "New York University",
+      "url": "https://www.linkedin.com/in/panuj/details/honors/",
+      "summary": "Awarded $8000/yr in recognition of previous academic achievements."
     }
   ],
   "publications": [
@@ -248,7 +249,7 @@
         "AI-Driven Channel Estimation",
         "Intelligent Spectrum Management",
         "Sparse and Adaptive Modulation Techniques",
-        "Polar Codes and LDPC for High-Efficiency Systems",
+        "Polar Codes and LDPC for Efficient Systems",
         "Sustainable 6G Networks"
       ]
     }
@@ -288,8 +289,8 @@
     },
     {
       "name": "Multi-User Massive MIMO Channel Estimation",
-      "summary": "Utilized MATLAB’s 5G toolbox for ray tracing a Remcom Wireless scenario with indoor sub-6G massive MIMO system at 2.5 GHz, generating 4 channel datasets with varying base stations and one-bit quantization based on pilot sequences. \nDeveloped a cGAN-based channel estimation method that outperformed U-Net, CNN, and MLP approaches, achieving significant dB gains at lower SNRs and producing channel images closely matching the ground truth channel.",
-      "highlights": ["Channel Estimation, 5G Protocols, Wireless Communications, Signal Processing, Ray Tracing, Generative Adversarial Networks"],
+      "summary": "Used MATLAB’s 5G toolbox for ray tracing an indoor sub-6G massive MIMO scenario at 2.5 GHz, generating 4 channel datasets with varying base stations, and developed a cGAN-based estimation method that outperformed U-Net, CNN, and MLP, achieving significant dB gains and accurate channel images at lower SNRs.",
+      "highlights": ["Channel Estimation, 5G Protocols, Wireless Communications, Ray Tracing, Generative Adversarial Networks"],
       "startDate": "2024-01-22",
       "endDate": "2024-05-10",
       "url": "https://github.com/anuj3509/Multi-User-Massive-MIMO-Channel-Estimation-using-cGAN"

@@ -12,7 +12,7 @@ nav_order: 6
 Organize your courses by years, topics, or universities, however you like! -->
 
 ## Graduate Teaching Assistant  
-**Columbia University** · *New York City Metropolitan Area*  
+**New York University** · *New York City Metropolitan Area*  
 **Jan 2024 - May 2024** · *5 months*  
 - Teaching Assistant II for **GR5063 Data Visualization** (Instructor: [Thomas Brambor](https://qmss.columbia.edu/directory/thomas-brambor)).  
 - Mentored and managed 75 students, providing support in **Python**, **RStudio**, and other visualization tools.
