@@ -89,7 +89,7 @@
       "startDate": "2015-04-01",
       "endDate": "2023-07-10",
       "summary": "Supervised activities at Rasotsav-22 for the Blind People’s Association and taught Science, Math, Computer, and Chess to ~100 students requiring special needs in grades 9-12.",
-      "highlights": ["Awarded Best 'Organizer' for Rasotsav-22", "Directly managed 15+ events impacting 100+ children with distinct support needs and 100+ volunteers."]
+      "highlights": ["Awarded 'Best Organizer' for Rasotsav-22", "Directly managed 15+ events impacting 100+ children with distinct support needs and 100+ volunteers."]
     },
     {
       "organization": "NYU Student Government Assembly (New York University)",
@@ -115,21 +115,21 @@
   "awards": [
     {
       "title": "Emerging Leaders Award (GR)",
-      "date": "2024-05-12",
+      "date": "2024-05",
       "awarder": "New York University",
       "url": "https://engineering.nyu.edu/life-tandon/student-life/leadership-opportunities",
       "summary": "Recognized for outstanding leadership initiatives and student engagement at NYU Tandon School of Engineering."
     },
     {
       "title": "NYU Merit Scholarship",
-      "date": "2023-09-05",
+      "date": "2023-09",
       "awarder": "New York University",
       "url": "",
       "summary": "Received $8000/yr in recognition of previous academic achievements."
     },
     {
       "title": "NYU Tandon Ambassador Scholarship",
-      "date": "2024-01-01",
+      "date": "2024-05",
       "awarder": "New York University",
       "url": "https://engineering.nyu.edu/admissions/graduate/connect",
       "summary": "Received $4300 in recognition for being a NYU Tandon Ambassador."
@@ -168,25 +168,25 @@
       "name": "Data Engineering & Big Data",
       "level": "Master",
       "icon": "fa-solid fa-database",
-      "keywords": ["Apache Spark", "Hadoop", "HDFS", "Hive", "PySpark", "BigQuery", "ETL", "Apache Kafka", "Apache Airflow", "PostgreSQL", "NoSQL", "CosmosDB", "MongoDB", "Data Pipelines", "Linux"]
+      "keywords": ["Apache Spark, Hadoop, HDFS, Hive, PySpark, BigQuery, ETL, Apache Kafka, Apache Airflow, PostgreSQL, NoSQL, CosmosDB, MongoDB, Data Pipelines, Linux"]
     },
     {
       "name": "Cloud & DevOps",
       "level": "Master",
       "icon": "fa-solid fa-cloud",
-      "keywords": ["AWS", "Azure", "Google Cloud", "Kubernetes", "Docker", "CI/CD", "Version Control: Git, GitLab", "Cloud: GCP, Databricks"]
+      "keywords": ["AWS, Azure, GCP, Databricks, Kubernetes, Docker, CI/CD", "Version Control: Git, GitLab"]
     },
     {
       "name": "Data Visualization",
       "level": "Master",
       "icon": "fa-solid fa-chart-line",
-      "keywords": ["matplotlib", "seaborn", "plotly", "ggplot", "Tableau", "PowerBI", "5G Protocols", "TCP/IP", "MS Office"]
+      "keywords": ["matplotlib, seaborn, plotly, ggplot, Tableau, PowerBI, 5G Protocols, TCP/IP, MS Office"]
     },
     {
-      "name": "Networking & Wireless Communications",
+      "name": "Wireless Technologies",
       "level": "Master",
       "icon": "fa-solid fa-wifi",
-      "keywords": ["5G Protocols", "TCP/IP", "Wireshark", "Massive MIMO", "OFDM", "RAN", "MPLS", "SD-WAN", "Free Space Optics", "Signal Processing"]
+      "keywords": ["5G Protocols, TCP/IP, Wireshark, Massive MIMO, OFDM, RAN, MPLS, SD-WAN, Free Space Optics, Signal Processing"]
     }
   ],
   "languages": [
@@ -197,7 +197,7 @@
     },
     {
       "language": "Hindi",
-      "fluency": "Native Speaker",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
@@ -207,7 +207,7 @@
     },
     {
       "language": "Spanish",
-      "fluency": "Intermidiate",
+      "fluency": "Intermediate",
       "icon": ""
     }
   ],
@@ -232,7 +232,7 @@
   "projects": [
     {
       "name": "Efficient Federated Learning",
-      "summary": "Pioneered an efficient FL framework with gradient-based pruning and adaptive federated optimization to mitigate I/O overheads, cutting training time by 22% and boosting model generalization in distributed systems. Increased bandwidth efficiency by 143% using gradient compression techniques and mix-precision training, ensuring accuracy on ResNet models with PyTorch DDP, DeepSpeed and Hugging Face Accelerate.",
+      "summary": "Pioneered an efficient FL framework with gradient-based pruning and adaptive federated optimization to mitigate I/O overheads, cutting training time by 22% and boosting model generalization in distributed systems. \nIncreased bandwidth efficiency by 143% using gradient compression techniques and mix-precision training, ensuring accuracy on ResNet models with PyTorch DDP, DeepSpeed and Hugging Face Accelerate.",
       "highlights": ["Federated Learning, Distributed Systems, Distributed Deep Learning, High Performance Computing"],
       "startDate": "2024-09-05",
       "endDate": "2024-12-18",
@@ -240,7 +240,7 @@
     },
     {
       "name": "Movie Recommendation System with NCF",
-      "summary": "Built and deployed a scalable movie recommendation system using NCF, achieving 50% Hit Ratio on MovieLens 1M with distributed Spark processing and SQL integration for data warehousing. Streamlined a 1M-record data pipeline with preprocessing, negative sampling, SQL-driven backend, and a Streamlit frontend, reducing recommendation retrieval time by 33%.",
+      "summary": "Built and deployed a scalable movie recommendation system using NCF, achieving 50% Hit Ratio on MovieLens 1M with distributed Spark processing and SQL integration for data warehousing. \nStreamlined a 1M-record data pipeline with preprocessing, negative sampling, SQL-driven backend, and a Streamlit frontend, reducing recommendation retrieval time by 33%.",
       "highlights": ["Recommendation Systems, Neural Collaborative Filtering, Statistical Data Analysis"],
       "startDate": "2024-09-05",
       "endDate": "2024-12-18",
@@ -248,7 +248,7 @@
     },
     {
       "name": "Multimodal Emotion Recognition",
-      "summary": "Enhanced a transformer based framework for emotion recognition, achieving 33.96% top-1 and 98.13% top-5 precision on RAVDESS data integrating both facial and vocal cues. Applied advanced modality fusion techniques with feature extraction and preprocessing pipelines, processing 4,000+ video and audio signals to improve robustness in noisy/incomplete datasets.",
+      "summary": "Enhanced a transformer based framework for emotion recognition, achieving 33.96% top-1 and 98.13% top-5 precision on RAVDESS data integrating both facial and vocal cues. \nApplied advanced modality fusion techniques with feature extraction and preprocessing pipelines, processing 4,000+ video and audio signals to improve robustness in noisy/incomplete datasets.",
       "highlights": ["Multimodal Emotion Recognition, Transformer Models, Deep Learning, Computer Vision, Speech Processing"],
       "startDate": "2024-09-05",
       "endDate": "2024-12-18",
@@ -256,7 +256,7 @@
     },
     {
       "name": "Multi-User Massive MIMO Channel Estimation",
-      "summary": "Utilized MATLAB’s 5G toolbox for ray tracing a Remcom Wireless scenario with indoor sub-6G massive MIMO system at 2.5 GHz, generating 4 channel datasets with varying base stations and one-bit quantization based on pilot sequences. Developed a cGAN-based channel estimation method that outperformed U-Net, CNN, and MLP approaches, achieving significant dB gains at lower SNRs and producing channel images closely matching the ground truth channel.",
+      "summary": "Utilized MATLAB’s 5G toolbox for ray tracing a Remcom Wireless scenario with indoor sub-6G massive MIMO system at 2.5 GHz, generating 4 channel datasets with varying base stations and one-bit quantization based on pilot sequences. \nDeveloped a cGAN-based channel estimation method that outperformed U-Net, CNN, and MLP approaches, achieving significant dB gains at lower SNRs and producing channel images closely matching the ground truth channel.",
       "highlights": ["Channel Estimation, 5G Protocols, Wireless Communications, Signal Processing, Ray Tracing, Generative Adversarial Networks"],
       "startDate": "2024-01-22",
       "endDate": "2024-05-10",
