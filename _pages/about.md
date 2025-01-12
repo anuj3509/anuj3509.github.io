@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Turning <b>Data</b> into <strong>Decisions</strong> that Matter.
 
 profile:
   align: right
