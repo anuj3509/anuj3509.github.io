@@ -79,21 +79,21 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
 <!-- Github Stats -->
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Apurva3509&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=vue&hide_border=true" alt="GitHub Stats" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuj3509&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=vue&hide_border=true" alt="GitHub Stats" style="margin-right: 10px;" />
 
 </p>
 
 <p align="left">
   <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Apurva3509&theme=vue&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="80%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=anuj3509&theme=vue&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="80%" />
   </a>
 </p>
 
 
 **Education**:  
-  - M.S. in Electrical Engineering (Columbia University)  
-  - B.Tech. in Electronics & Instrumentation Engineering (VIT University)
+  - M.S. in Electrical Engineering (New York University)  
+  - B.Tech. in Electronics & Communication Engineering (VIT University)
 
 **Languages**:  
   - English (Native or Bilingual)  
