@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Graduate Course teaching experience at Columbia University",
+          description: "Course teaching experience at New York University",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
