@@ -16,3 +16,4 @@ Organize your courses by years, topics, or universities, however you like! -->
 **Jan 2024 - Dec 2024** · *12 months*  
 - Teaching Assistant for **ECE-UY 3404: Fundamentals of Communication Theory** (Instructor: [Unnikrishna Pillai](https://engineering.nyu.edu/faculty/unnikrishna-pillai)).  
 - Guided and mentored 15 students, providing support in **MATLAB**, **Python**, and other signal processing tools.
+- Course Page: [Fundamentals of Communication Theory](http://bulletin.engineering.nyu.edu/preview_course_nopop.php?catoid=15&coid=36675)
