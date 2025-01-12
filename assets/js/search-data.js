@@ -383,7 +383,7 @@ ninja.data = [{
         
       },
     },{id: "news-interned-with-johnson-amp-amp-johnson",
-          title: 'Interned with Johnson &amp;amp;amp; Johnson 😃',
+          title: 'Interned with Johnson &amp;amp;amp; Johnson',
           description: "",
           section: "News",},{id: "news-developed-a-project-name",
           title: 'Developed a project name',
