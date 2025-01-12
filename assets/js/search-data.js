@@ -382,16 +382,16 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-interned-with-nokia-of-america",
-          title: 'Interned with Nokia of America :)',
+    },{id: "news-interned-with-johnson-amp-amp-johnson",
+          title: 'Interned with Johnson &amp;amp;amp; Johnson 😃',
           description: "",
-          section: "News",},{id: "news-developed-medical-language-model-medlms",
-          title: 'Developed Medical Language Model (MedLMs)',
+          section: "News",},{id: "news-developed-a-project-name",
+          title: 'Developed a project name',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-graduated-among-top-10-from-columbia-university",
-          title: 'Graduated among top 10% from Columbia University.',
+            },},{id: "news-working-as-a-research-assistant-at-nyu-wireless",
+          title: 'Working as a Research Assistant at NYU WIRELESS',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

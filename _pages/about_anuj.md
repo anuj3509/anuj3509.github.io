@@ -13,5 +13,5 @@ Beyond academics and work, I’ve cultivated leadership skills as a PDL Fellow a
 
 I’m eager to continue pushing the boundaries of AI and machine learning to create scalable, impactful solutions. I am interested in roles involving Data Science & Analytics, Generative AI, AI Agents and Recomendation systems. 
 
-Let’s [connect](https://www.linkedin.com/in/patelapurva/) and collaborate!! 
+Let’s [connect](https://www.linkedin.com/in/panuj/) and collaborate!! 
 
