@@ -275,7 +275,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Patel]
-  first_name: [Apurva, M.]
+  first_name: [Anuj, M.]
 
   style: apa
   locale: en
@@ -637,7 +637,7 @@ jsonresume:
   - basics
   - education
   - work
-  # - publications
+  - publications
   - projects
   - volunteer
   - awards
@@ -645,4 +645,4 @@ jsonresume:
   - skills
   - languages
   - interests
-  # - references
+  - references

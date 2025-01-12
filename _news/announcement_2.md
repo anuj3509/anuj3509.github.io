@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Developed Medical Language Model (MedLMs)
+title: Developed a project name
 date: 2024-11-29 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Finetuned multiple LLMs for Medical answering system and achieved remarkable performance.
-
+Brief header here!!!
 ---
 
 

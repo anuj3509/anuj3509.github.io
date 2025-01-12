@@ -9,7 +9,7 @@ profile:
   image: prof_pic_color.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>amp2365[at]columbia[dot]edu</p>
+    <p>amp10162[at]nyu[dot]edu</p>
     <p>📍New York City, USA</p>
 
 news: true # includes a list of news items

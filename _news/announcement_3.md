@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Interned with Nokia of America :)
+Interned with Johnson & Johnson 😃
