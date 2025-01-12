@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Turning <b>Data</b> into <strong>Decisions</strong> that Matter.
+subtitle: Turning <strong>Data into Decisions</strong> that Matter.
 
 profile:
   align: right
@@ -17,7 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-**Data Science & Generative AI. Understanding the *"black box"* in AI.**
 
 I’m a data-driven problem solver passionate about Generative AI and AI Agents. I hold a Master’s in [Electrical Engineering](https://www.engineering.columbia.edu/electrical-engineering-department) from [Columbia University](https://en.wikipedia.org/wiki/Columbia_University), specializing in Machine Learning, Generative AI, NLP, and Big Data. I completed my B.Tech. from [VIT University](https://en.wikipedia.org/wiki/Vellore_Institute_of_Technology) in 2023, graduating with distinction.
 
