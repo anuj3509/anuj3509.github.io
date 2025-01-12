@@ -5,10 +5,9 @@ github_users:
 repo_description_lines_max: 3
 
 github_repos:
-  - anuj3509/
+  - anuj3509/Efficient-Federated-Learning
+  - anuj3509/RecommenderX
+  - anuj3509/Multimodal-Emotion-Recognition-System
+  - anuj3509/Multi-User-Massive-MIMO-Channel-Estimation-using-cGAN
   - anuj3509/LeetCode
-  - anuj3509/
-  - anuj3509/
-  - anuj3509/ 
-  - anuj3509/
   - anuj3509/anuj3509.github.io
