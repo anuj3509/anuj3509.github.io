@@ -5,21 +5,21 @@
 <!-- <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> -->
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="30"/> **About Me**
-![Profile views](https://komarev.com/ghpvc/?username=Apurva3509&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=anuj3509&color=yellow)
 
 
 I’m a data-driven problem solver passionate about Generative AI and AI Agents. Visit my [website](https://www.patelapurva.com) for more details.
 
-You can find my resume [here](assets/pdf/Resume_Apurva.pdf).
+You can find my resume [here](assets/pdf/Resume_Anuj.pdf).
 
 **I am interested in exploring roles involving Data Science & Analytics, Generative AI, AI Agents and Recomendation systems.**
 
-Let’s [connect](https://www.linkedin.com/in/patelapurva/)!!
+Let’s [connect](https://www.linkedin.com/in/panuj/)!!
 
-- 🌱 I’m currently working on: AI Safety and AI Agent guardrails
-- 🔭 I’m researching: Advanced Retrieval methods and Multimodal Vector Embeddings.
+- 🌱 I’m currently working on: 
+- 🔭 I’m researching: 
   
-- 🔗 Visit me on [LinkedIn](https://www.linkedin.com/in/patelapurva) to connect
+- 🔗 Visit me on [LinkedIn](https://www.linkedin.com/in/panuj) to connect
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
