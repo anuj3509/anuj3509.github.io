@@ -36,7 +36,7 @@
     },
     {
       "institution": "Vellore Institute of Technology",
-      "location": "Tamil Nadu, IND",
+      "location": "Tamil Nadu, India",
       "url": "https://www.vit.ac.in",
       "area": "Electronics & Communication Engineering",
       "studyType": "Bachelor of Technology",
@@ -76,7 +76,7 @@
       "startDate": "2022-05-20",
       "endDate": "2022-07-16",
       "summary": "Examined MPLS and SD-WAN technologies in the M(IS) department at Gujarat Refinery & Optimized the intricate operations of the preliminary refining pipelines in Atmospheric Unit (AU) IV.",
-      "highlights": ["Network Design and Security", "Python, TCP/IP, Wireshark, Linux, Bash"]
+      "highlights": ["Network Design and Security", "TCP/IP, Wireshark, Bash"]
     }
   ],
 
@@ -145,7 +145,7 @@
     },
     {
       "name": "Automated Toll Collection System with Vehicle Categorization and Enhanced Security",
-      "publisher": "International Research Journal of Engineering and Technology (IRJET), vol. 09, issue 10, (e-ISSN: 2395-0056)",
+      "publisher": "International Research Journal of Engineering and Technology",
       "releaseDate": "2022-10-10",
       "url": "https://www.irjet.net/archives/V9/i10/IRJET-V9I10107.pdf",
       "summary": "Developed an automated toll collection system leveraging RFID and IoT technologies to optimize toll plaza operations, enhance security, and reduce congestion by 40%."
@@ -185,7 +185,7 @@
     {
       "name": "Networking & Wireless Communications",
       "level": "Master",
-      "icon": "fa-solid fa-chart-line",
+      "icon": "fa-solid fa-wifi",
       "keywords": ["5G Protocols", "TCP/IP", "Wireshark", "Massive MIMO", "OFDM", "RAN", "MPLS", "SD-WAN", "Free Space Optics", "Signal Processing"]
     }
   ],

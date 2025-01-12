@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Me
+title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>amp10162[at]nyu[dot]edu</p>
-    <p>📍New York City, USA</p>
+    <p>📍New York, NY</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -23,13 +23,13 @@ I’m a data-driven problem solver passionate about Generative AI and AI Agents.
 
 My interests include Generative AI techniques that facilitates the integration of domain knowledge and deep learning models. I am passionate about exploring how AI Agents(with guardrails) and RAGs can foster safe, robust, and explainable AI. I have also worked on other topics like Recommendation Systems, LLM finetuning and probabilistic models.
 
-I was part of [DitecT lab](https://www.columbia.edu/~yf2578/) at [Columbia Engineering](https://www.engineering.columbia.edu) and I was advised by Dr. [Sharon Di](https://www.engineering.columbia.edu/faculty-staff/directory/sharon-di) & [Zhaobin Mo](https://zhaobinmo.github.io) to work on Deep Learning models for autonomous vehicles. I have also worked at [Nokia](https://www.nokia.com/), [ISRO](https://www.isro.gov.in/) and [Indian Oil Corporation Ltd.](https://en.wikipedia.org/wiki/Indian_Oil_Corporation) which gave me hands-on experience in AI, network security, and Data engineering.
+I was part of [DitecT lab](https://www.columbia.edu/~yf2578/) at [Columbia Engineering](https://www.engineering.columbia.edu) and I was advised by Dr. [Sharon Di](https://www.engineering.columbia.edu/faculty-staff/directory/sharon-di) & [Zhaobin Mo](https://zhaobinmo.github.io) to work on Deep Learning models for autonomous vehicles. I have also worked at [Nokia](https://www.nokia.com/), [ISRO](https://www.isro.gov.in/) and [Indian Oil Corporation Ltd.](https://www.iocl.com/) which gave me hands-on experience in AI, network security, and Data engineering.
 
 <!-- My leadership as a PDL Fellow at Columbia University and volunteer work with the Blind People’s Association reflect my commitment to societal impact. -->
 
 **I am interested in exploring roles involving Data Science & Analytics, Generative AI, AI Agents and Recomendation systems.**
 
-Let’s [connect](https://www.linkedin.com/in/patelapurva/)!!
+Let’s [connect](https://www.linkedin.com/in/panuj/)!!
 
 
 
