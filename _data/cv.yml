@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Apurva Patel
+      value: Anuj Patel
     - name: Date of Birth
       value: 31st October 2001
     - name: Languages
@@ -12,8 +12,8 @@
   type: time_table
   contents:
     - title: MS in Electrical Engineering
-      institution: Columbia University in the City of New York, New York, US
-      year: 2024
+      institution: New York University, NY, USA
+      year: 2025
       description:
         - Description 1.
         - Description 2.
@@ -31,8 +31,8 @@
 - title: Experience
   type: time_table
   contents:
-    - title: AI/ML Intern
-      institution: Nokia of America Corporation
+    - title: Data Science Intern
+      institution: Johnson & Johnson
       year: June 2024 - August 2024
       description:
         - Description 1.
