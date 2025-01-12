@@ -6,7 +6,7 @@
     "email": "amp10162@nyu.edu",
     "phone": "347.401.7880",
     "url": "https://www.anuj3509.github.io",
-    "summary": "Graduate student at New York University with a strong passion for Data Science, High Performance Machine Learning and Wireless Communications",
+    "summary": "Graduate student at New York University with a solid foundation in Data Science, AI/ML and Wireless Communications",
     "location": {
       "address": "1062 62nd St",
       "postalCode": "NY 11219",
@@ -89,7 +89,7 @@
       "startDate": "2015-04-01",
       "endDate": "2023-07-10",
       "summary": "Supervised activities at Rasotsav-22 for the Blind People’s Association and taught Science, Math, Computer, and Chess to ~100 students requiring special needs in grades 9-12.",
-      "highlights": ["Awarded 'Best Organizer' for Rasotsav-22", "Directly managed 15+ events impacting 100+ children with distinct support needs and 100+ volunteers."]
+      "highlights": ["Awarded 'Best Organizer' for Rasotsav-22.", "Directly managed 15+ events impacting 100+ children with distinct support needs and 100+ volunteers."]
     },
     {
       "organization": "NYU Student Government Assembly (New York University)",
@@ -99,7 +99,7 @@
       "startDate": "2023-09-05",
       "endDate": "2025-05-25",
       "summary": "Advocated for graduate student interests in university senate meetings, influencing policies to enhance campus safety, diversity, and inclusivity.",
-      "highlights": ["Advocated for 40+ policies and reforms", "Organized 30+ events and tabling sessions impacting 10000+ students, faculty and staff."]
+      "highlights": ["Advocated for 40+ policies and reforms.", "Organized 30+ events and tabling sessions impacting 10000+ students, faculty and staff."]
     },
     {
       "organization": "NYU Tandon School of Engineering",
@@ -110,26 +110,36 @@
       "endDate": "2025-09-04",
       "summary": "Led 40+ orientation leaders to onboard 1,600+ students at NYU Tandon, organizing inclusive events to foster community and ensure a seamless orientation experience during Fall 2024 and Spring 2025.",
       "highlights": ["Managed 20+ events within a span of 3 days to provide a remarkable welcome to incoming students."]
+    },
+    {
+      "organization": "NYU Tandon School of Engineering",
+      "location": "New York, NY",
+      "position": "LAUNCH Peer Mentor",
+      "url": "",
+      "startDate": "2024-09-12",
+      "endDate": "2025-10-24",
+      "summary": "Mentored 12 first-year graduate students at NYU Tandon, organizing workshops on time management, networking, and leadership to support their academic and professional growth.",
+      "highlights": ["Awarded $700 in recognition for exceptional mentorship and leadership."]
     }
   ],
   "awards": [
     {
       "title": "Emerging Leaders Award (GR)",
-      "date": "2024-05",
+      "date": "2024-05-12",
       "awarder": "New York University",
       "url": "https://engineering.nyu.edu/life-tandon/student-life/leadership-opportunities",
       "summary": "Recognized for outstanding leadership initiatives and student engagement at NYU Tandon School of Engineering."
     },
     {
       "title": "NYU Merit Scholarship",
-      "date": "2023-09",
+      "date": "2023-09-05",
       "awarder": "New York University",
-      "url": "",
+      "url": "https://www.linkedin.com/in/panuj/details/honors/",
       "summary": "Received $8000/yr in recognition of previous academic achievements."
     },
     {
       "title": "NYU Tandon Ambassador Scholarship",
-      "date": "2024-05",
+      "date": "2024-05-20",
       "awarder": "New York University",
       "url": "https://engineering.nyu.edu/admissions/graduate/connect",
       "summary": "Received $4300 in recognition for being a NYU Tandon Ambassador."
@@ -156,7 +166,7 @@
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-code",
-      "keywords": ["Python, MATLAB, R, C/C++, Java, Bash, SQL, LabVIEW"]
+      "keywords": ["Python, MATLAB, R, C/C++, CUDA, Java, Bash, SQL, LabVIEW"]
     },
     {
       "name": "Data Science & Machine Learning",
@@ -196,13 +206,13 @@
       "icon": ""
     },
     {
-      "language": "Hindi",
-      "fluency": "Fluent",
+      "language": "Gujarati",
+      "fluency": "Native Speaker",
       "icon": ""
     },
     {
-      "language": "Gujarati",
-      "fluency": "Native Speaker",
+      "language": "Hindi",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
@@ -226,13 +236,35 @@
         "Data Analysis",
         "Time Series Forecasting"        
       ]
+    },
+    {
+      "name": "Wireless Communications",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Massive MIMO and Beamforming",
+        "RL for Resource Allocation and Beamforming",
+        "Ultra-Reliable Low Latency Communications",
+        "mmWave and THz Communications",
+        "AI-Driven Channel Estimation",
+        "Intelligent Spectrum Management",
+        "Sparse and Adaptive Modulation Techniques",
+        "Polar Codes and LDPC for High-Efficiency Systems",
+        "Sustainable 6G Networks"
+      ]
     }
   ],
-
+  "references": [
+    {
+      "name": "Sashank Gangadharabhotla",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "I had the distinct pleasure of mentoring Anuj during his internship at J&J. From the outset, he impressed me with his ability to swiftly navigate complex challenges and contribute thoughtful, innovative ideas. Anuj combines sharp analytical skills with a collaborative spirit, making them an invaluable asset to any team. His proactive approach and exceptional communication skills set him apart, and I have no doubt that he will continue to excel in all future endeavors.",
+      "url": "https://www.linkedin.com/in/panuj/details/recommendations/"
+    }
+  ],
   "projects": [
     {
       "name": "Efficient Federated Learning",
-      "summary": "Pioneered an efficient FL framework with gradient-based pruning and adaptive federated optimization to mitigate I/O overheads, cutting training time by 22% and boosting model generalization in distributed systems. \nIncreased bandwidth efficiency by 143% using gradient compression techniques and mix-precision training, ensuring accuracy on ResNet models with PyTorch DDP, DeepSpeed and Hugging Face Accelerate.",
+      "summary": "Pioneered an efficient Federated Learning framework, reducing training time by 22%, boosting model generalization, and increasing bandwidth efficiency by 143% using gradient compression and mixed-precision training on ResNet models with PyTorch DDP, DeepSpeed, and Hugging Face Accelerate.",
       "highlights": ["Federated Learning, Distributed Systems, Distributed Deep Learning, High Performance Computing"],
       "startDate": "2024-09-05",
       "endDate": "2024-12-18",
@@ -240,7 +272,7 @@
     },
     {
       "name": "Movie Recommendation System with NCF",
-      "summary": "Built and deployed a scalable movie recommendation system using NCF, achieving 50% Hit Ratio on MovieLens 1M with distributed Spark processing and SQL integration for data warehousing. \nStreamlined a 1M-record data pipeline with preprocessing, negative sampling, SQL-driven backend, and a Streamlit frontend, reducing recommendation retrieval time by 33%.",
+      "summary": "Built and deployed a scalable movie recommendation system using NCF, achieving a 50% Hit Ratio on MovieLens 1M, and optimized a 1M-record data pipeline with Spark processing, SQL backend, and Streamlit frontend, reducing recommendation retrieval time by 33%.",
       "highlights": ["Recommendation Systems, Neural Collaborative Filtering, Statistical Data Analysis"],
       "startDate": "2024-09-05",
       "endDate": "2024-12-18",
@@ -248,8 +280,8 @@
     },
     {
       "name": "Multimodal Emotion Recognition",
-      "summary": "Enhanced a transformer based framework for emotion recognition, achieving 33.96% top-1 and 98.13% top-5 precision on RAVDESS data integrating both facial and vocal cues. \nApplied advanced modality fusion techniques with feature extraction and preprocessing pipelines, processing 4,000+ video and audio signals to improve robustness in noisy/incomplete datasets.",
-      "highlights": ["Multimodal Emotion Recognition, Transformer Models, Deep Learning, Computer Vision, Speech Processing"],
+      "summary": "Enhanced a transformer-based emotion recognition framework, achieving 33.96% top-1 and 98.13% top-5 precision on RAVDESS data, by integrating facial and vocal cues and applying advanced fusion techniques to process 4,000+ signals, improving robustness in noisy datasets.",
+      "highlights": ["Emotion Recognition, Deep Learning, Computer Vision, Transformer Models, Speech Processing"],
       "startDate": "2024-09-05",
       "endDate": "2024-12-18",
       "url": "https://github.com/anuj3509/Multimodal-Emotion-Recognition-System"
