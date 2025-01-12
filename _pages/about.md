@@ -18,15 +18,13 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I’m a data-driven problem solver passionate about Generative AI and AI Agents. I hold a Master’s in [Electrical Engineering](https://www.engineering.columbia.edu/electrical-engineering-department) from [Columbia University](https://en.wikipedia.org/wiki/Columbia_University), specializing in Machine Learning, Generative AI, NLP, and Big Data. I completed my B.Tech. from [VIT University](https://en.wikipedia.org/wiki/Vellore_Institute_of_Technology) in 2023, graduating with distinction.
+I am a data-driven problem solver with a passion for GenAI and Recommendation Systems. I hold a Master’s in [Electrical Engineering](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering) from [New York University](https://www.nyu.edu/), where I specialized in High-Performance Machine Learning, Generative AI, Big Data, and Wireless Communications. I graduated with distinction in 2023 with a B.Tech in [Electronics and Communication Engineering](https://vit.ac.in/schools/school-of-electronics-engineering) from [VIT University](https://vit.ac.in/).
 
-My interests include Generative AI techniques that facilitates the integration of domain knowledge and deep learning models. I am passionate about exploring how AI Agents(with guardrails) and RAGs can foster safe, robust, and explainable AI. I have also worked on other topics like Recommendation Systems, LLM finetuning and probabilistic models.
+I am passionate about Generative AI techniques that blend domain expertise with deep learning. I enjoy exploring AI Agents (with guardrails) and RAGs to build safe, robust, and explainable systems. My work also spans Recommendation Systems, Distributed Deep Learning, and probabilistic models.
 
-I was part of [DitecT lab](https://www.columbia.edu/~yf2578/) at [Columbia Engineering](https://www.engineering.columbia.edu) and I was advised by Dr. [Sharon Di](https://www.engineering.columbia.edu/faculty-staff/directory/sharon-di) & [Zhaobin Mo](https://zhaobinmo.github.io) to work on Deep Learning models for autonomous vehicles. I have also worked at [Nokia](https://www.nokia.com/), [ISRO](https://www.isro.gov.in/) and [Indian Oil Corporation Ltd.](https://www.iocl.com/) which gave me hands-on experience in AI, network security, and Data engineering.
+I am part of [NYU WIRELESS](https://engineering.nyu.edu/research-innovation/centers/nyu-wireless) at [NYU Tandon](https://engineering.nyu.edu/) and I was advised by Prof. [Sundeep Rangan](https://engineering.nyu.edu/faculty/sundeep-rangan) to work on developing advanced machine learning models for 6G channel estimation. I have also worked at [Johnson & Johnson](https://thenext.jnjmedtech.com/), [ISRO](https://www.isro.gov.in/) and [Indian Oil Corporation Ltd.](https://www.iocl.com/) which gave me hands-on experience in wireless communications, quantum key distribution, AI/ML, network security and handling large volumes of data.
 
-<!-- My leadership as a PDL Fellow at Columbia University and volunteer work with the Blind People’s Association reflect my commitment to societal impact. -->
-
-**I am interested in exploring roles involving Data Science & Analytics, Generative AI, AI Agents and Recomendation systems.**
+**I am interested in exploring roles involving Data Science, Big Data Analytics, GenAI and Recommendation Systems. **
 
 Let’s [connect](https://www.linkedin.com/in/panuj/)!!
 
