@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Graduate Course teaching experience at Columbia University
+description: Course teaching experience at New York University
 nav: true
 nav_order: 6
 ---
@@ -12,13 +12,7 @@ nav_order: 6
 Organize your courses by years, topics, or universities, however you like! -->
 
 ## Graduate Teaching Assistant  
-**New York University** · *New York City Metropolitan Area*  
-**Jan 2024 - May 2024** · *5 months*  
-- Teaching Assistant II for **GR5063 Data Visualization** (Instructor: [Thomas Brambor](https://qmss.columbia.edu/directory/thomas-brambor)).  
-- Mentored and managed 75 students, providing support in **Python**, **RStudio**, and other visualization tools.
-
-**Sep 2024 - Dec 2024** · *4 months*  
-- Teaching Assistant II for **E6893 Big Data Analytics** (Instructor: [Dr. Ching-Yung Lin](https://www.ee.columbia.edu/content/ching-yung-lin)).  
-- Guided and supported 80 students in concepts of Big Data Analytics.  
-- Repository: [Sapphirine GitHub](https://github.com/Sapphirine)  
-- Course Page: [Big Data Analytics](https://www.ee.columbia.edu/~cylin/course/bigdata/)
+**New York University** · *New York, NY*  
+**Jan 2024 - Dec 2024** · *12 months*  
+- Teaching Assistant for **ECE-UY 3404: Fundamentals of Communication Theory** (Instructor: [Unnikrishna Pillai](https://engineering.nyu.edu/faculty/unnikrishna-pillai)).  
+- Guided and mentored 15 students, providing support in **MATLAB**, **Python**, and other signal processing tools.

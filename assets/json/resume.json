@@ -92,14 +92,14 @@
       "highlights": ["Awarded 'Best Organizer' for Rasotsav-22.", "Directly managed 15+ events impacting 100+ children with distinct support needs and 100+ volunteers."]
     },
     {
-      "organization": "NYU Student Government Assembly (New York University)",
+      "organization": "NYU Tandon School of Engineering",
       "location": "New York, NY",
-      "position": "Alternate Senator",
-      "url": "https://www.nyu.edu/about/leadership-university-administration/university-senate/membership/councils/student-government-assembly.html",
-      "startDate": "2023-09-05",
-      "endDate": "2025-05-25",
-      "summary": "Advocated for graduate student interests in university senate meetings, influencing policies to enhance campus safety, diversity, and inclusivity.",
-      "highlights": ["Advocated for 40+ policies and reforms.", "Organized 30+ events and tabling sessions impacting 10000+ students, faculty and staff."]
+      "position": "LAUNCH Peer Mentor",
+      "url": "",
+      "startDate": "2024-09-12",
+      "endDate": "2024-10-24",
+      "summary": "Mentored 12 first-year graduate students at NYU Tandon, organizing workshops on time management, networking, and leadership to support their academic and professional growth.",
+      "highlights": ["Awarded $700 in recognition for exceptional mentorship and leadership."]
     },
     {
       "organization": "NYU Tandon School of Engineering",
@@ -112,15 +112,17 @@
       "highlights": ["Managed 20+ events within a span of 3 days to provide a remarkable welcome to incoming students."]
     },
     {
-      "organization": "NYU Tandon School of Engineering",
+      "organization": "NYU Student Government Assembly (New York University)",
       "location": "New York, NY",
-      "position": "LAUNCH Peer Mentor",
-      "url": "",
-      "startDate": "2024-09-12",
-      "endDate": "2024-10-24",
-      "summary": "Mentored 12 first-year graduate students at NYU Tandon, organizing workshops on time management, networking, and leadership to support their academic and professional growth.",
-      "highlights": ["Awarded $700 in recognition for exceptional mentorship and leadership."]
+      "position": "Alternate Senator",
+      "url": "https://www.nyu.edu/about/leadership-university-administration/university-senate/membership/councils/student-government-assembly.html",
+      "startDate": "2023-09-05",
+      "endDate": "2025-05-25",
+      "summary": "Advocated for graduate student interests in university senate meetings, influencing policies to enhance campus safety, diversity, and inclusivity.",
+      "highlights": ["Advocated for 40+ policies and reforms.", "Organized 30+ events and tabling sessions impacting 10000+ students, faculty and staff."]
     }
+    
+    
   ],
   "awards": [
     {
