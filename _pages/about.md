@@ -24,7 +24,7 @@ I am passionate about Generative AI techniques that blend domain expertise with 
 
 I am part of [NYU WIRELESS](https://engineering.nyu.edu/research-innovation/centers/nyu-wireless) at [NYU Tandon](https://engineering.nyu.edu/) and I was advised by Prof. [Sundeep Rangan](https://engineering.nyu.edu/faculty/sundeep-rangan) to work on developing advanced machine learning models for 6G channel estimation. I have also worked at [Johnson & Johnson](https://thenext.jnjmedtech.com/), [ISRO](https://www.isro.gov.in/) and [Indian Oil Corporation Ltd.](https://www.iocl.com/) which gave me hands-on experience in wireless communications, quantum key distribution, AI/ML, network security and handling large volumes of data.
 
-**I am interested in exploring roles involving Data Science, Big Data Analytics, GenAI and Recommendation Systems. **
+**I am interested in exploring roles involving Data Science, Big Data Analytics, GenAI and Recommendation Systems.**
 
 Let’s [connect](https://www.linkedin.com/in/panuj/)!!
 
