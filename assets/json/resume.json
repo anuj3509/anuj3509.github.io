@@ -43,7 +43,7 @@
       "startDate": "2019-07-10",
       "endDate": "2023-05-25",
       "score": "10",
-      "courses": ["Object Oriented Programming", "Advanced JAVA Programming", "Statistics", "Applied Linear Algebra", "Cryptography and Network Security", "VLSI Design", "Artificial Intelligence for Biomedical"]
+      "courses": ["Object Oriented Programming", "Advanced JAVA Programming", "Statistics", "Applied Linear Algebra", "Cryptography and Network Security", "VLSI System Design", "Artificial Intelligence for Biomedical"]
     }
   ],
 
@@ -156,13 +156,13 @@
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-code",
-      "keywords": ["Python", "MATLAB", "R", "C/C++", "Java", "Bash", "SQL", "LabVIEW"]
+      "keywords": ["Python, MATLAB, R, C/C++, Java, Bash, SQL, LabVIEW"]
     },
     {
       "name": "Data Science & Machine Learning",
       "level": "Master",
       "icon": "fa-solid fa-brain",
-      "keywords": ["PyTorch", "TensorFlow", "Keras", "Scikit-Learn", "NumPy", "Pandas", "MLFlow", "Flyte", "CUDA Programming", "MLOps", "BERT", "T5", "GPT", "A/B Testing"]
+      "keywords": ["PyTorch, TensorFlow, Keras, Scikit-Learn, NumPy, Pandas, MLFlow, Flyte, CUDA Programming, MLOps, BERT, T5, GPT, A/B Testing"]
     },
     {
       "name": "Data Engineering & Big Data",
