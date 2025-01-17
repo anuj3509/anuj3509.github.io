@@ -6,7 +6,7 @@ subtitle: Turning <strong>Data into Decisions</strong> that Matter.
 
 profile:
   align: right
-  image: prof_pic_color.png
+  image: headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>amp10162[at]nyu[dot]edu</p>
