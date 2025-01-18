@@ -5,7 +5,7 @@
     "image": "",
     "email": "amp10162@nyu.edu",
     "phone": "347.401.7880",
-    "url": "https://www.anuj3509.github.io",
+    "url": "https://anuj3509.github.io",
     "summary": "Graduate student at New York University with a solid foundation in AI/ML, Data Science and Wireless Communications",
     "location": {
       "address": "1062 62nd St",
@@ -32,7 +32,17 @@
       "startDate": "2023-09-05",
       "endDate": "2025-05-25",
       "score": "10",
-      "courses": ["Machine Learning", "High Perfrmance Machine Learning", "Deep Learning", "Big Data", "Computer Vision", "Wireless Communications", "Probability & Stochastic Processes", "Digital Signal Processing", "Internet Architecture & Protocols"]
+      "courses": [
+        "Machine Learning",
+        "High Perfrmance Machine Learning",
+        "Deep Learning",
+        "Big Data",
+        "Computer Vision",
+        "Wireless Communications",
+        "Probability & Stochastic Processes",
+        "Digital Signal Processing",
+        "Internet Architecture & Protocols"
+      ]
     },
     {
       "institution": "Vellore Institute of Technology",
@@ -43,7 +53,15 @@
       "startDate": "2019-07-10",
       "endDate": "2023-05-25",
       "score": "10",
-      "courses": ["Object Oriented Programming", "Advanced JAVA Programming", "Statistics", "Applied Linear Algebra", "Cryptography and Network Security", "VLSI System Design", "Artificial Intelligence for Biomedical"]
+      "courses": [
+        "Object Oriented Programming",
+        "Advanced JAVA Programming",
+        "Statistics",
+        "Applied Linear Algebra",
+        "Cryptography and Network Security",
+        "VLSI System Design",
+        "Artificial Intelligence for Biomedical"
+      ]
     }
   ],
 
@@ -89,7 +107,10 @@
       "startDate": "2022-08-10",
       "endDate": "2023-07-10",
       "summary": "Supervised activities at Rasotsav-22 for the Blind People’s Association and taught Science, Math, Computer, and Chess to ~100 students requiring special needs in grades 9-12.",
-      "highlights": ["Awarded 'Best Organizer' for Rasotsav-22.", "Directly managed 15+ events impacting 100+ children with distinct support needs and 100+ volunteers."]
+      "highlights": [
+        "Awarded 'Best Organizer' for Rasotsav-22.",
+        "Directly managed 15+ events impacting 100+ children with distinct support needs and 100+ volunteers."
+      ]
     },
     {
       "organization": "NYU Tandon School of Engineering",
@@ -119,10 +140,11 @@
       "startDate": "2023-09-05",
       "endDate": "2025-05-25",
       "summary": "Advocated for graduate student interests in university senate meetings, influencing policies to enhance campus safety, diversity, and inclusivity.",
-      "highlights": ["Advocated for 40+ policies and reforms.", "Organized 30+ events and tabling sessions impacting 10000+ students, faculty and staff."]
+      "highlights": [
+        "Advocated for 40+ policies and reforms.",
+        "Organized 30+ events and tabling sessions impacting 10000+ students, faculty and staff."
+      ]
     }
-    
-    
   ],
   "awards": [
     {
@@ -132,7 +154,7 @@
       "url": "https://engineering.nyu.edu/life-tandon/student-life/leadership-opportunities",
       "summary": "Recognized for outstanding leadership initiatives and student engagement at NYU Tandon School of Engineering."
     },
-    
+
     {
       "title": "NYU Tandon Ambassador Scholarship",
       "date": "2024-05-20",
@@ -181,7 +203,9 @@
       "name": "Data Engineering & Big Data",
       "level": "Master",
       "icon": "fa-solid fa-database",
-      "keywords": ["Apache Spark, Hadoop, HDFS, Hive, PySpark, BigQuery, ETL, Apache Kafka, Apache Airflow, PostgreSQL, NoSQL, CosmosDB, MongoDB, Data Pipelines, Linux"]
+      "keywords": [
+        "Apache Spark, Hadoop, HDFS, Hive, PySpark, BigQuery, ETL, Apache Kafka, Apache Airflow, PostgreSQL, NoSQL, CosmosDB, MongoDB, Data Pipelines, Linux"
+      ]
     },
     {
       "name": "Cloud & DevOps",
@@ -237,7 +261,7 @@
         "Generative AI",
         "Data Engineering",
         "Data Analysis",
-        "Time Series Forecasting"        
+        "Time Series Forecasting"
       ]
     },
     {

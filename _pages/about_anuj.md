@@ -1,5 +1,4 @@
-
-Hi, 
+Hi,
 
 I am a data-driven problem solver with a passion for GenAI and Recommendation Systems. I hold a Master’s in [Electrical Engineering](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering) from [New York University](https://www.nyu.edu/), where I specialized in High-Performance Machine Learning, Generative AI, Big Data, and Wireless Communications. I graduated with distinction in 2023 with a B.Tech in [Electronics and Communication Engineering](https://vit.ac.in/schools/school-of-electronics-engineering) from [VIT University](https://vit.ac.in/).
 

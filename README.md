@@ -9,10 +9,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3AE0FFEB&background=40FF7E00&lines=Hi+there%2C+I+am+Anuj+Patel+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="30"/> **About Me**
-![Profile views](https://komarev.com/ghpvc/?username=anuj3509&color=green)
 
+![Profile views](https://komarev.com/ghpvc/?username=anuj3509&color=green)
 
 I am a data-driven problem solver with a passion for GenAI and Recommendation Systems. I hold a Master’s in [Electrical Engineering](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering) from [New York University](https://www.nyu.edu/), where I specialized in High-Performance Machine Learning, Generative AI, Big Data, and Wireless Communications. I graduated with distinction in 2023 with a B.Tech in [Electronics and Communication Engineering](https://vit.ac.in/schools/school-of-electronics-engineering) from [VIT University](https://vit.ac.in/).
 
@@ -24,9 +23,7 @@ I am part of [NYU WIRELESS](https://engineering.nyu.edu/research-innovation/cent
 
 - 🌱 I’m currently working on: Recommendation Systems and multi-modal data fusion.
 - 🔭 I’m researching: Advanced Retrieval methods and Distributed Deep Learning.
-  
 - 🔗 Visit me on [LinkedIn](https://www.linkedin.com/in/panuj/) to connect
-
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -112,10 +109,7 @@ I am part of [NYU WIRELESS](https://engineering.nyu.edu/research-innovation/cent
 
 </p>
 
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
 
 <table>
   <tr>
@@ -139,24 +133,23 @@ I am part of [NYU WIRELESS](https://engineering.nyu.edu/research-innovation/cent
   </a>
 </p>
 
-**Education**:  
-  - M.S. in Electrical Engineering (New York University)  
-  - B.Tech. in Electronics & Communication Engineering (VIT University)
+**Education**:
 
-**Languages**:  
-  - English (Fluent)  
-  - Hindi (Fluent)
-  - Gujarati (Native Speaker)  
-  - Spanish (Intermediate)
+- M.S. in Electrical Engineering (New York University)
+- B.Tech. in Electronics & Communication Engineering (VIT University)
 
+**Languages**:
 
+- English (Fluent)
+- Hindi (Fluent)
+- Gujarati (Native Speaker)
+- Spanish (Intermediate)
 
 Check out my repositories for exciting projects and my latest work in data science, machine learning, and wireless communications!
 
 Let’s [connect](https://www.linkedin.com/in/panuj/)!!
 
-
-<!--  
+<!--
 ## 📈 GitHub Stats
 
 ![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuj3509&show_icons=true&theme=radical)

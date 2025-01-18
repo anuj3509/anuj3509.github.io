@@ -6,9 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Brief header here!!!
----
-
+## Brief header here!!!
 
 The integration of AI in healthcare is revolutionizing how we approach Medical Question Answering (MedQA) systems, providing clinicians, patients, and researchers with quick and reliable responses. In this project, we explore the fine-tuning of several pre-trained large language models and adapting them to the medical domain through efficient methods like LoRA. The final models were deployed using LangChain and Netlify for better infernece speed.
 
