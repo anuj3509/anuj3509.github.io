@@ -16,11 +16,11 @@ Leveraging the **MovieLens 1M dataset**, which contains over 1 million ratings f
 
 ##### Highlights:
 
-- **Neural Collaborative Filtering**: Utilizes deep learning to model user and item embeddings, replacing traditional collaborative filtering.
-- **Negative Sampling**: Introduced a 4:1 ratio of negative to positive samples for better training efficiency.
-- **Scalable Frameworks**: Implemented distributed data processing using Apache Spark.
-- **Interactive Dashboard**: Built with Streamlit, allowing users to explore recommendations and analyze data.
-- **Evaluation Metrics**: Achieved a Hit Ratio @ 10 of 50%, showcasing the effectiveness of the model.
+- _Neural Collaborative Filtering_: Utilizes deep learning to model user and item embeddings, replacing traditional collaborative filtering.
+- _Negative Sampling_: Introduced a 4:1 ratio of negative to positive samples for better training efficiency.
+- _Scalable Frameworks_: Implemented distributed data processing using Apache Spark.
+- _Interactive Dashboard_: Built with Streamlit, allowing users to explore recommendations and analyze data.
+- _Evaluation Metrics_: Achieved a Hit Ratio @ 10 of 50%, showcasing the effectiveness of the model.
 
 ##### Key Insights:
 
@@ -30,10 +30,10 @@ Leveraging the **MovieLens 1M dataset**, which contains over 1 million ratings f
 
 ##### Technologies Used:
 
-- **Deep Learning**: PyTorch, PyTorch Lightning for training and model optimization.
-- **Big Data**: Apache Spark for distributed data processing.
-- **Visualization**: Streamlit for building an interactive recommendation dashboard.
-- **Database**: SQLite for storing movie data, ratings, and recommendations.
+- _Deep Learning_: PyTorch, PyTorch Lightning for training and model optimization.
+- _Big Data_: Apache Spark for distributed data processing.
+- _Visualization_: Streamlit for building an interactive recommendation dashboard.
+- _Database_: SQLite for storing movie data, ratings, and recommendations.
 
 > Check out the full source code and implementation on GitHub: <a href="https://github.com/anuj3509/RecommenderX">RecommenderX Repository</a>
 
