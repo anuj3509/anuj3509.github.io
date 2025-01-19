@@ -14,7 +14,7 @@ With the exponential growth of digital media, effective recommendation systems h
 
 Leveraging the **MovieLens 1M dataset**, which contains over 1 million ratings from 6,040 users across 3,952 movies, our system captures intricate user-movie relationships using deep learning. We employed **Apache Spark** to process large datasets efficiently and built a web-based dashboard for interactive exploration of recommendations.
 
-#### Highlights:
+##### Highlights:
 
 - **Neural Collaborative Filtering**: Utilizes deep learning to model user and item embeddings, replacing traditional collaborative filtering.
 - **Negative Sampling**: Introduced a 4:1 ratio of negative to positive samples for better training efficiency.
@@ -22,13 +22,13 @@ Leveraging the **MovieLens 1M dataset**, which contains over 1 million ratings f
 - **Interactive Dashboard**: Built with Streamlit, allowing users to explore recommendations and analyze data.
 - **Evaluation Metrics**: Achieved a Hit Ratio @ 10 of 50%, showcasing the effectiveness of the model.
 
-#### Key Insights:
+##### Key Insights:
 
 1. NCF demonstrated superior performance compared to traditional methods, especially in capturing non-linear relationships.
 2. Distributed frameworks like Apache Spark proved essential for handling the scale of the MovieLens dataset.
 3. Dataset sparsity was addressed effectively through negative sampling, enhancing model learning.
 
-#### Technologies Used:
+##### Technologies Used:
 
 - **Deep Learning**: PyTorch, PyTorch Lightning for training and model optimization.
 - **Big Data**: Apache Spark for distributed data processing.
@@ -37,7 +37,7 @@ Leveraging the **MovieLens 1M dataset**, which contains over 1 million ratings f
 
 > Check out the full source code and implementation on GitHub: <a href="https://github.com/anuj3509/RecommenderX">RecommenderX Repository</a>
 
-#### Future Enhancements:
+##### Future Enhancements:
 
 1. Incorporate multimodal data like user reviews and movie trailers to enrich recommendations.
 2. Experiment with hybrid models combining collaborative and content-based approaches.
@@ -45,6 +45,6 @@ Leveraging the **MovieLens 1M dataset**, which contains over 1 million ratings f
 
 ---
 
-##### Feedback and Contributions:
+###### Feedback and Contributions:
 
-Your insights are invaluable. Feel free to test the model, share feedback, or contribute improvements via a pull request: <a href="https://github.com/anuj3509/RecommenderX/pulls">Pull Requests</a>
+Your insights are invaluable. Feel free to test the model, share feedback, or contribute improvements via a <a href="https://github.com/anuj3509/RecommenderX/pulls">pull request</a>.
