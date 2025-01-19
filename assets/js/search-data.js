@@ -385,8 +385,8 @@ ninja.data = [{
     },{id: "news-interned-with-johnson-amp-amp-johnson",
           title: 'Interned with Johnson &amp;amp;amp; Johnson',
           description: "",
-          section: "News",},{id: "news-developed-a-scalable-movie-recommendation-system",
-          title: 'Developed a Scalable Movie Recommendation System',
+          section: "News",},{id: "news-developed-a-movie-recommendation-system",
+          title: 'Developed a Movie Recommendation System',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
