@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Developed a Scalable Movie Recommendation System
+title: Developed a Movie Recommendation System
 date: 2024-12-12 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-## Revolutionizing Movie Recommendations with Neural Networks
+Revolutionizing Movie Recommendations with Neural Collaborative Filtering
 
 ---
 
@@ -14,7 +14,7 @@ The exponential growth of digital media has created an overwhelming amount of co
 
 The project used the **MovieLens 1M dataset**, containing over 1 million ratings from 6,040 users across 3,952 movies. Our system leverages **deep learning models** to replace traditional collaborative filtering methods, effectively capturing complex, nonlinear user-movie interactions. We also incorporated **Apache Spark** for distributed data processing to ensure scalability.
 
-### Key Features:
+#### Key Features:
 
 - **Deep Learning Models**: Neural Collaborative Filtering (NCF) to learn user and movie embeddings.
 - **Negative Sampling**: Balancing the dataset by introducing a 4:1 ratio of negative to positive samples for better learning.
@@ -23,7 +23,7 @@ The project used the **MovieLens 1M dataset**, containing over 1 million ratings
 
 ---
 
-### Insights:
+#### Insights:
 
 1. NCF outperformed traditional collaborative filtering by capturing higher-order relationships in user-item interactions.
 2. The system successfully scaled for big data using **Apache Spark**.
@@ -31,17 +31,18 @@ The project used the **MovieLens 1M dataset**, containing over 1 million ratings
 
 ---
 
-> Explore the complete code and models on GitHub:  
-> <a href="https://github.com/anuj3509/RecommenderX">Project Repository</a>
-
-#### Feedback and Collaboration:
-
-Your feedback helps us improve. Feel free to test the model and suggest improvements by submitting a pull request to the repository above.
+> Check out the full project and source code on GitHub: <a href="https://github.com/anuj3509/RecommenderX">RecommenderX Repository</a>
 
 ---
 
-### Future Work:
+#### Future Work:
 
 1. Incorporate **multimodal data** like user reviews or movie trailers.
 2. Explore hybrid models combining collaborative filtering with content-based techniques.
 3. Use reinforcement learning to adapt recommendations dynamically based on user behavior.
+
+---
+
+##### Feedback and Collaboration:
+
+Your feedback helps us improve. Feel free to test the model and suggest improvements by submitting a pull request to this <a href="https://github.com/anuj3509/RecommenderX/pulls">repository</a>.
