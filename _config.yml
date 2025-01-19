@@ -16,7 +16,6 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your o
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: light-favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-
 # Favicon settings for compatibility
 head:
   # Standard favicon for all devices
