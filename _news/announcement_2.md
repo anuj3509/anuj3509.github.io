@@ -1,37 +1,42 @@
 ---
 layout: post
-title: Developed a project name
-date: 2024-11-29 16:11:00-0400
+title: Developed a Scalable Movie Recommendation System
+date: 2024-12-12 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-## Brief header here!!!
+## Revolutionizing Movie Recommendations with Neural Networks
+---
 
-The integration of AI in healthcare is revolutionizing how we approach Medical Question Answering (MedQA) systems, providing clinicians, patients, and researchers with quick and reliable responses. In this project, we explore the fine-tuning of several pre-trained large language models and adapting them to the medical domain through efficient methods like LoRA. The final models were deployed using LangChain and Netlify for better infernece speed.
+The exponential growth of digital media has created an overwhelming amount of content, making effective recommendation systems essential for guiding users to relevant movies. In this project, we developed a **scalable movie recommendation system** using **Neural Collaborative Filtering (NCF)** and integrated it with distributed big data frameworks to handle large datasets efficiently.
 
-By experimenting with datasets like WikiDoc and MedQuad, we uncover valuable insights into how these models perform in terms of speed, scalability, and task-specific accuracy. Comparing the models reveals key trade-offs. Larger models like Llama 3 excel at handling complex medical queries, while smaller models such as DistilGPT2 prioritize speed and efficiency for simpler tasks. Our findings emphasize how fine-tuning and careful model selection can create precise, scalable solutions tailored to the unique challenges of healthcare applications.
+The project used the **MovieLens 1M dataset**, containing over 1 million ratings from 6,040 users across 3,952 movies. Our system leverages **deep learning models** to replace traditional collaborative filtering methods, effectively capturing complex, nonlinear user-movie interactions. We also incorporated **Apache Spark** for distributed data processing to ensure scalability.
 
-<!-- Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy. -->
-
-#### Models:
-
-<ul>
-    <li>Llama 3</li>
-    <li>DistilGPT2</li>
-    <li>Gemma 1.1</li>
-    <li>Mistral 7B</li>
-    <li>Llama 2</li>
-</ul>
-
-> All the models fine-tuned in our project can be found at <a href="https://huggingface.co/Apurva3509">Apurva's Hugging Face</a> and <a href="https://huggingface.co/abhilash2599">here</a>. Please feel free to use them and test it.
+### Key Features:
+- **Deep Learning Models**: Neural Collaborative Filtering (NCF) to learn user and movie embeddings.
+- **Negative Sampling**: Balancing the dataset by introducing a 4:1 ratio of negative to positive samples for better learning.
+- **Distributed Frameworks**: Use of Apache Spark to handle large-scale data efficiently.
+- **Evaluation**: Hit Ratio @ 10 metric achieved a score of **50%**, demonstrating the system's effectiveness in personalized recommendations.
 
 ---
 
-Usage and feedback:
+### Insights:
+1. NCF outperformed traditional collaborative filtering by capturing higher-order relationships in user-item interactions.
+2. The system successfully scaled for big data using **Apache Spark**.
+3. Addressed dataset sparsity through negative sampling techniques.
 
-Please try our model(s) and give feedback so we can improve and tune our parameters and possibly adapt to different scenarios.
+---
 
-You can make a pull request in this repo: <a href="https://github.com/Apurva3509/MedLMs/pulls">Repository</a>
+> Explore the complete code and models on GitHub:  
+> <a href="https://github.com/anuj3509/RecommenderX">Project Repository</a>
 
-Thanks !!
+#### Feedback and Collaboration:
+Your feedback helps us improve. Feel free to test the model and suggest improvements by submitting a pull request to the repository above.
+
+---
+
+### Future Work:
+1. Incorporate **multimodal data** like user reviews or movie trailers.
+2. Explore hybrid models combining collaborative filtering with content-based techniques.
+3. Use reinforcement learning to adapt recommendations dynamically based on user behavior.
