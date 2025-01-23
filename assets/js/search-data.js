@@ -390,8 +390,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-working-as-a-research-assistant-at-nyu-wireless",
-          title: 'Working as a Research Assistant at NYU WIRELESS',
+            },},{id: "news-started-working-as-a-researcher-at-nyu-wireless",
+          title: 'Started working as a Researcher at NYU WIRELESS',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
