@@ -382,16 +382,16 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-started-working-as-a-researcher-at-nyu-wireless",
-          title: 'Started working as a Researcher at NYU WIRELESS',
+    },{id: "news-interned-with-johnson-amp-amp-johnson",
+          title: 'Interned with Johnson &amp;amp;amp; Johnson',
           description: "",
           section: "News",},{id: "news-developed-a-movie-recommendation-system",
           title: 'Developed a Movie Recommendation System',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-interned-with-johnson-amp-amp-johnson",
-          title: 'Interned with Johnson &amp;amp;amp; Johnson',
+            },},{id: "news-started-working-as-a-researcher-at-nyu-wireless",
+          title: 'Started working as a Researcher at NYU WIRELESS',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
