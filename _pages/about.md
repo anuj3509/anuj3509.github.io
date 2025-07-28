@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: Turning <strong>Data into Decisions</strong> that Matter.
-[View Resume](/assets/pdf/Resume_Anuj.pdf)
+# [View Resume](/assets/pdf/Resume_Anuj.pdf)
 
 profile:
   align: right
