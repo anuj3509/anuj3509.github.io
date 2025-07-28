@@ -6,7 +6,7 @@
     "email": "amp10162@nyu.edu",
     "phone": "347.401.7880",
     "url": "https://www.panuj.com",
-  "summary": "New York University graduate with a solid foundation in AI/ML, Data Science and Wireless Communications. Experienced in building GenAI tools and RecSys engines for EdTech, space-tech and healthcare.",
+    "summary": "New York University graduate with a solid foundation in AI/ML, Data Science and Wireless Communications. Experienced in building GenAI tools and RecSys engines for EdTech, space-tech and healthcare.",
     "location": {
       "address": "1062 62nd St",
       "postalCode": "NY 11219",
@@ -108,28 +108,23 @@
     }
   ],
 
-  
   "awards": [
     {
       "title": "Tandon Community Excellence Award",
       "date": "2025-05-07",
       "awarder": "New York University",
-      // "url": "https://engineering.nyu.edu/life-tandon/student-life/leadership-opportunities",
-      "summary": "This award is given to one or more graduating students for outstanding scholarship and participation in extracurricular activities. These students exemplify leadership, innovation, and talent, and provide support in the mission to enhance student life at the School of Engineering.
-"
+      "summary": "This award is given to one or more graduating students for outstanding scholarship and participation in extracurricular activities. These students exemplify leadership, innovation, and talent, and provide support in the mission to enhance student life at the School of Engineering."
     },
     {
       "title": "Distinguished Engagement Award",
       "date": "2025-04-29",
       "awarder": "New York University",
-      // "url": "https://engineering.nyu.edu/life-tandon/student-life/leadership-opportunities",
       "summary": "Recognized for spearheading initiatives that fostered inclusive community building and cross-campus collaboration to boost student engagement."
     },
     {
       "title": "Emerging Leaders Award",
       "date": "2024-05-12",
       "awarder": "New York University",
-      // "url": "https://engineering.nyu.edu/life-tandon/student-life/leadership-opportunities",
       "summary": "Recognized for outstanding leadership initiatives and student engagement at NYU Tandon School of Engineering."
     },
 
@@ -137,14 +132,12 @@
       "title": "NYU Tandon Ambassador Scholarship",
       "date": "2024-05-20",
       "awarder": "New York University",
-      // "url": "https://engineering.nyu.edu/admissions/graduate/connect",
       "summary": "Awarded $4300 in recognition for being a NYU Tandon Ambassador."
     },
     {
       "title": "NYU Merit Scholarship",
       "date": "2023-09-05",
       "awarder": "New York University",
-      // "url": "https://www.linkedin.com/in/panuj/details/honors/",
       "summary": "Awarded $8000/yr in recognition of previous academic achievements."
     }
   ],
@@ -181,15 +174,16 @@
       "name": "Databases",
       "level": "Master",
       "icon": "fa-solid fa-database",
-      "keywords": [
-        "PostgreSQL, MongoDB, CosmosDB, ChromaDB, Weaviate, Pinecone, Supabase"
-      ]
+      "keywords": ["PostgreSQL, MongoDB, CosmosDB, ChromaDB, Weaviate, Pinecone, Supabase"]
     },
     {
       "name": "Cloud & DevOps",
       "level": "Master",
       "icon": "fa-solid fa-cloud",
-      "keywords": ["AWS (SageMaker, EC2, ELB, S3, Redshift), GCP (Vertex AI, BigQuery, AutoML), Azure, Databricks, Kubeflow, Airflow, MLFlow, Flyte, Spark, Kafka, Kubernetes, Docker, CI/CD, Slurm, ETL", "Version Control: Git, GitLab"]
+      "keywords": [
+        "AWS (SageMaker, EC2, ELB, S3, Redshift), GCP (Vertex AI, BigQuery, AutoML), Azure, Databricks, Kubeflow, Airflow, MLFlow, Flyte, Spark, Kafka, Kubernetes, Docker, CI/CD, Slurm, ETL",
+        "Version Control: Git, GitLab"
+      ]
     },
     {
       "name": "Data Visualization",
