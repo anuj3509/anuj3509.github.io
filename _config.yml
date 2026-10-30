@@ -9,10 +9,10 @@ last_name: Patel
 contact_note: >
   You can best reach out to me on <a href="https://www.linkedin.com/in/panuj/" target="_blank">LinkedIn</a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website for Anuj Mahendra Patel.
+  Anuj Patel: Senior AI/ML Engineer building LLM agents and ML systems, with a research background in machine learning and wireless communications.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: AI/ML engineer, LLM agents, RAG, machine learning, wireless communications, Anuj Patel
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: light-favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -47,7 +47,7 @@ back_to_top: true # set to false to disable the back to top button
 repo_theme_light: swift # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false # the public github-profile-trophy server is no longer available
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
@@ -171,7 +171,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # number of latest news items shown on the about page; leave blank to show all
 
 latest_posts:
   enabled: false

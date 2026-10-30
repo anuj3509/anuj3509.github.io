@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='/assets/pdf/Resume_Anuj.pdf'>View Resume</a>
+subtitle: Senior AI/ML Engineer at <a href='https://www.dune.security/'>Dune Security</a> · <a href='/assets/pdf/Resume_Anuj.pdf'>Resume</a>
 
 profile:
   align: right
@@ -13,18 +13,18 @@ profile:
     <p><i class="fa-solid fa-location-dot"></i> New York, NY</p>
 
 news: true # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Turning **Data into Decisions** that Matter.
+I build **AI agents and ML systems** that run in production, and I bring a research background to them.
 
-I am a data-driven problem solver with a passion for GenAI and Recommendation Systems. I hold a Master’s in [Electrical Engineering](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering) from [New York University](https://www.nyu.edu/), where I specialized in High-Performance Machine Learning, Generative AI, Big Data, and Wireless Communications. I graduated with distinction in 2023 with a B.Tech in [Electronics and Communication Engineering](https://vit.ac.in/schools/school-of-electronics-engineering) from [VIT University](https://vit.ac.in/).
+I'm a Senior AI/ML Engineer at [Dune Security](https://www.dune.security/), where I build LLM-powered systems for security red-teaming. They include a stateful multi-channel red-team agent, a real-time voice agent with 525 ms turn latency, and a Go service that generates attack personas with Claude.
 
-I am passionate about Generative AI techniques that blend domain expertise with deep learning. I enjoy experimenting with Retrieval-Augmented Generation (RAG) to bridge the gap between static AI models and dynamic, real-world data sources. My work also spans Recommendation Systems, Distributed Deep Learning, and probabilistic models.
+Before Dune, I was an AI/ML Engineer at [New York University](https://www.nyu.edu/), shipping a RAG chatbot and course-recommendation pipelines for 5K+ students. Before that, I was a Data Scientist at [Johnson & Johnson](https://www.jnj.com/), where I fine-tuned LLaMA 2 with QLoRA into a clinical assistant over 1M+ patient records.
 
-I am part of [NYU WIRELESS](https://engineering.nyu.edu/research-innovation/centers/nyu-wireless) at [NYU Tandon](https://engineering.nyu.edu/) where I am advised by Prof. [Sundeep Rangan](https://engineering.nyu.edu/faculty/sundeep-rangan) to work on developing advanced machine learning models for sub-6G channel estimation. I have also worked at [Johnson & Johnson](https://thenext.jnjmedtech.com/), [ISRO](https://www.isro.gov.in/) and [Indian Oil Corporation Ltd.](https://www.iocl.com/) which provided me with hands-on experience in wireless communications, quantum key distribution, AI/ML, network security, and managing large-scale data.
+My research is in machine learning and wireless communications. At [NYU WIRELESS](https://wireless.engineering.nyu.edu/), advised by Prof. [Sundeep Rangan](https://engineering.nyu.edu/faculty/sundeep-rangan), I built a 57.51 GHz mmWave channel sounder and worked on GAN-based channel estimation for massive MIMO. Before that, I researched quantum key distribution at [ISRO](https://www.isro.gov.in/). With Prof. [Unnikrishna Pillai](https://engineering.nyu.edu/faculty/unnikrishna-pillai), I co-authored the Springer textbook [_Fundamentals of Communication Theory: Analog to Digital_](https://doi.org/10.1007/978-3-032-20615-2).
 
-**I am interested in exploring roles involving Data Science, Big Data Analytics, GenAI and Recommendation Systems.**
+I hold an MS in [Electrical Engineering](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering) from [NYU Tandon](https://engineering.nyu.edu/). Day to day I work in Python, Go and TypeScript with PyTorch, HuggingFace, vLLM, LangGraph and AWS.
 
-Let’s [connect](https://www.linkedin.com/in/panuj/)!!
+Let's [connect](https://www.linkedin.com/in/panuj/)!

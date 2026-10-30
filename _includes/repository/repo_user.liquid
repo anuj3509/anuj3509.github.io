@@ -1,14 +1,18 @@
-<div class="repo p-2 text-center">
-  <a href="https://github.com/{{ include.username }}">
-    <img
-      class="only-light w-100"
-      alt="{{ include.username }}"
-      src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_light }}&show_icons=true"
-    >
-    <img
-      class="only-dark w-100"
-      alt="{{ include.username }}"
-      src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&show_icons=true"
-    >
+{% assign gh_user = site.data.github.users[include.username] %}
+<div class="repo p-2">
+  <a class="repo-card repo-user-card" href="https://github.com/{{ include.username }}">
+    {% if gh_user.avatar_url %}
+      <img class="repo-user-avatar" src="{{ gh_user.avatar_url }}&s=128" alt="{{ include.username }}">
+    {% endif %}
+    <div>
+      <div class="repo-card-title">{{ gh_user.name | default: include.username }}</div>
+      <div class="repo-card-description"><i class="fa-brands fa-github"></i> {{ include.username }}</div>
+      {% if gh_user %}
+        <div class="repo-card-meta">
+          <span><i class="fa-solid fa-book"></i> {{ gh_user.public_repos }} repositories</span>
+          <span><i class="fa-solid fa-users"></i> {{ gh_user.followers }} followers</span>
+        </div>
+      {% endif %}
+    </div>
   </a>
 </div>
