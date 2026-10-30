@@ -217,7 +217,7 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 26%;
 
     .address {
       p {
@@ -536,11 +536,87 @@ footer.sticky-bottom {
   transform: translateX(-15px) translateY(-5px);
 }
 
+// About page sections (news, latest posts, selected publications)
+
+.about-section {
+  margin-top: 2rem;
+}
+
+.post article > .clearfix > p:last-child {
+  margin-bottom: 0;
+}
+
+.post article > .news .table {
+  margin-bottom: 0;
+
+  tr:last-child > * {
+    padding-bottom: 0;
+  }
+}
+
 // Repositories
+
+.repo {
+  width: 100%;
+}
 
 @media (min-width: 768px) {
   .repo {
     max-width: 50%;
+  }
+}
+
+.repo-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.5rem;
+  background-color: var(--global-card-bg-color);
+  color: var(--global-text-color);
+  text-align: left;
+  transition: border-color 0.2s ease-in-out;
+
+  &:hover {
+    border-color: var(--global-theme-color);
+    text-decoration: none;
+  }
+
+  .repo-card-title {
+    color: var(--global-theme-color);
+    font-weight: 500;
+  }
+
+  .repo-card-description {
+    flex-grow: 1;
+    margin: 0.5rem 0;
+    font-size: 0.9rem;
+    color: var(--global-text-color);
+  }
+
+  .repo-card-meta {
+    display: flex;
+    gap: 1rem;
+    font-size: 0.8rem;
+    color: var(--global-text-color-light);
+  }
+
+  .repo-language-dot {
+    font-size: 0.6rem;
+    color: var(--global-theme-color);
+  }
+}
+
+.repo-user-card {
+  flex-direction: row;
+  align-items: center;
+  gap: 1rem;
+
+  .repo-user-avatar {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
   }
 }
 

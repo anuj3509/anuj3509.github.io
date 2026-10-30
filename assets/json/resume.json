@@ -1,24 +1,27 @@
 {
   "basics": {
     "name": "Anuj Patel",
-    "label": "Data Scientist, AI & Machine Learning Engineer",
+    "label": "Senior AI/ML Engineer",
     "image": "",
     "email": "amp10162@nyu.edu",
     "phone": "347.401.7880",
     "url": "https://www.panuj.com",
-    "summary": "New York University graduate with a solid foundation in AI/ML, Data Science and Wireless Communications. Experienced in building GenAI tools and RecSys engines for EdTech, space-tech and healthcare.",
+    "summary": "Senior AI/ML Engineer building agents for AI-powered red-teaming, with a research background in machine learning and wireless communications. Co-author of a Springer textbook on communication theory.",
     "location": {
-      "address": "1062 62nd St",
-      "postalCode": "NY 11219",
-      "city": "Brooklyn",
+      "city": "New York",
       "countryCode": "US",
       "region": "New York"
     },
     "profiles": [
       {
-        "network": "X",
+        "network": "LinkedIn",
+        "username": "panuj",
+        "url": "https://www.linkedin.com/in/panuj/"
+      },
+      {
+        "network": "GitHub",
         "username": "anuj3509",
-        "url": "https://x.com/anuj3509"
+        "url": "https://github.com/anuj3509"
       }
     ]
   },
@@ -31,17 +34,14 @@
       "studyType": "Master of Science",
       "startDate": "2023-09-05",
       "endDate": "2025-05-25",
-      "score": "10",
+      "score": "3.9/4.0",
       "courses": [
         "Machine Learning",
-        "High Performance Machine Learning",
         "Deep Learning",
-        "Big Data",
         "Computer Vision",
-        "Wireless Communications",
+        "High Performance Machine Learning",
         "Probability & Stochastic Processes",
-        "Digital Signal Processing",
-        "Internet Architecture & Protocols"
+        "Big Data"
       ]
     },
     {
@@ -64,8 +64,16 @@
       ]
     }
   ],
-
   "work": [
+    {
+      "name": "Dune Security",
+      "position": "Senior AI/ML Engineer",
+      "location": "New York, NY",
+      "url": "https://www.dune.security/",
+      "startDate": "2025-12-01",
+      "summary": "Building agents for AI-powered red-teaming, including multi-channel conversational and real-time voice agents.",
+      "highlights": ["LLM Agents & Voice AI", "Python, Go, TypeScript, AWS"]
+    },
     {
       "name": "NYU WIRELESS",
       "position": "Applied Researcher",
@@ -75,6 +83,16 @@
       "endDate": "2025-05-14",
       "summary": "Developed FR3 and mmWave Channel Sounder (Advised by: Prof. Sundeep Rangan)",
       "highlights": ["Wireless Communications", "Python", "Generative AI"]
+    },
+    {
+      "name": "New York University",
+      "position": "AI/ML Engineer",
+      "location": "New York, NY",
+      "url": "https://www.nyu.edu/",
+      "startDate": "2024-01-22",
+      "endDate": "2024-12-20",
+      "summary": "Built a RAG chatbot and course-recommendation pipelines serving 5K+ students.",
+      "highlights": ["RAG & Recommendation Systems", "LangChain, FastAPI, PostgreSQL, Docker"]
     },
     {
       "name": "Johnson & Johnson",
@@ -107,7 +125,6 @@
       "highlights": ["Network Design and Security", "TCP/IP, Wireshark, Bash"]
     }
   ],
-
   "awards": [
     {
       "title": "Tandon Community Excellence Award",
@@ -127,7 +144,6 @@
       "awarder": "New York University",
       "summary": "Recognized for outstanding leadership initiatives and student engagement at NYU Tandon School of Engineering."
     },
-
     {
       "title": "NYU Tandon Ambassador Scholarship",
       "date": "2024-05-20",
@@ -142,6 +158,13 @@
     }
   ],
   "publications": [
+    {
+      "name": "Fundamentals of Communication Theory: Analog to Digital",
+      "publisher": "Springer Nature",
+      "releaseDate": "2026-05-01",
+      "url": "https://doi.org/10.1007/978-3-032-20615-2",
+      "summary": "Textbook co-authored with Prof. Unnikrishna Pillai covering Fourier analysis, amplitude and angle modulation, and digital modulation techniques."
+    },
     {
       "name": "Intelligent Road Illumination Network using IoT",
       "publisher": "International Journal for Research in Applied Science and Engineering Technology",
@@ -159,43 +182,34 @@
   ],
   "skills": [
     {
-      "name": "Programming Languages",
+      "name": "Languages",
       "level": "Master",
       "icon": "fa-solid fa-code",
-      "keywords": ["Python, TypeScript, , C/C++, CUDA, MATLAB, SQL, Bash"]
+      "keywords": ["Python, Go, TypeScript, C/C++, CUDA, SQL, Bash"]
     },
     {
-      "name": "Data Science & Machine Learning",
+      "name": "ML & LLM Frameworks",
       "level": "Master",
       "icon": "fa-solid fa-brain",
-      "keywords": ["PyTorch, HuggingFace, LangChain, LangGraph, GraphQL, Numpy, Pandas, W&B, MLOps, BERT, T5, GPT, A/B Testing"]
+      "keywords": ["PyTorch, HuggingFace, vLLM, FastAPI, LangChain, LangGraph, NumPy, Pandas, W&B"]
+    },
+    {
+      "name": "Cloud",
+      "level": "Master",
+      "icon": "fa-solid fa-cloud",
+      "keywords": ["AWS (SageMaker, EC2, ECS, Elastic Beanstalk, S3, Redshift, Lambda, ECR, CloudWatch)"]
+    },
+    {
+      "name": "DevOps & MLOps",
+      "level": "Master",
+      "icon": "fa-solid fa-gears",
+      "keywords": ["Docker, Kubernetes, Git, CI/CD, Kubeflow, Airflow, Spark, Kafka, Slurm"]
     },
     {
       "name": "Databases",
       "level": "Master",
       "icon": "fa-solid fa-database",
-      "keywords": ["PostgreSQL, MongoDB, CosmosDB, ChromaDB, Weaviate, Pinecone, Supabase"]
-    },
-    {
-      "name": "Cloud & DevOps",
-      "level": "Master",
-      "icon": "fa-solid fa-cloud",
-      "keywords": [
-        "AWS (SageMaker, EC2, ELB, S3, Redshift), GCP (Vertex AI, BigQuery, AutoML), Azure, Databricks, Kubeflow, Airflow, MLFlow, Flyte, Spark, Kafka, Kubernetes, Docker, CI/CD, Slurm, ETL",
-        "Version Control: Git, GitLab"
-      ]
-    },
-    {
-      "name": "Data Visualization",
-      "level": "Master",
-      "icon": "fa-solid fa-chart-line",
-      "keywords": ["matplotlib, seaborn, plotly, ggplot, Tableau, PowerBI, MS Office"]
-    },
-    {
-      "name": "Wireless Technologies",
-      "level": "Master",
-      "icon": "fa-solid fa-wifi",
-      "keywords": ["5G Protocols, TCP/IP, Wireshark, Massive MIMO, OFDM, RAN, MPLS, SD-WAN, Free Space Optics, Signal Processing"]
+      "keywords": ["PostgreSQL, MongoDB, DynamoDB, SQLite, ChromaDB, Weaviate, Pinecone"]
     }
   ],
   "references": [
@@ -207,6 +221,14 @@
     }
   ],
   "projects": [
+    {
+      "name": "Multi-Agent RAG Chatbot for E-commerce Customer Support",
+      "summary": "Designed an agentic RAG chatbot with 7 tools and Voyage-3.5 embeddings that handles 20K+ appliance parts through dual-database orchestration (SQLite FTS5 + ChromaDB) in 2 LLM calls, with a RAGOrchestrator multi-agent workflow for intent classification and semantic retrieval.",
+      "highlights": ["Agentic AI, RAG, Multi-Agent Systems, LLMs"],
+      "startDate": "2025-08-01",
+      "endDate": "2025-09-30",
+      "url": "https://github.com/anuj3509/PartSelect-Agentic-Chatbot"
+    },
     {
       "name": "Efficient Federated Learning",
       "summary": "Pioneered an efficient Federated Learning framework, reducing training time by 22%, boosting model generalization, and increasing bandwidth efficiency by 143% using gradient compression and mixed-precision training on ResNet models with PyTorch DDP, DeepSpeed, and Hugging Face Accelerate.",
@@ -242,18 +264,17 @@
   ],
   "interests": [
     {
-      "name": "AI/ML & Data Science",
+      "name": "AI/ML",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "NLP",
-        "LLMs",
-        "ML Modelling",
-        "Fraud & Anomaly Detection",
+        "LLM Agents",
+        "Retrieval-Augmented Generation",
+        "Voice AI",
+        "LLM Fine-tuning",
         "Recommendation Systems",
-        "Generative AI",
-        "Data Engineering",
-        "Data Analysis",
-        "Time Series Forecasting"
+        "Distributed Deep Learning",
+        "Multimodal Learning",
+        "MLOps"
       ]
     },
     {

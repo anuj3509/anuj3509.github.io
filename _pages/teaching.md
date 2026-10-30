@@ -19,3 +19,4 @@ Organize your courses by years, topics, or universities, however you like! -->
 - Teaching Assistant for **ECE-UY 3404: Fundamentals of Communication Theory** (Instructor: [Unnikrishna Pillai](https://engineering.nyu.edu/faculty/unnikrishna-pillai)).
 - Guided and mentored 15 students, providing support in **MATLAB**, **Python**, and other signal processing tools.
 - Course Page: [Fundamentals of Communication Theory](http://bulletin.engineering.nyu.edu/preview_course_nopop.php?catoid=15&coid=36675)
+- Co-authored the course textbook with Prof. Pillai: [_Fundamentals of Communication Theory: Analog to Digital_](https://doi.org/10.1007/978-3-032-20615-2) (Springer, 2026).
