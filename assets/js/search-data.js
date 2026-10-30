@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-repositories",
-          title: "Repositories",
-          description: "My GitHub profile &amp; repositories for project and personal work.",
+  },{id: "nav-publications",
+          title: "Publications",
+          description: "Books and papers in reverse chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/repositories/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-cv",
           title: "CV",
@@ -392,6 +392,18 @@ ninja.data = [{
               window.location.href = "/news/announcement_2/";
             },},{id: "news-started-working-as-a-researcher-at-nyu-wireless",
           title: 'Started working as a Researcher at NYU WIRELESS',
+          description: "",
+          section: "News",},{id: "news-received-the-tandon-community-excellence-award-from-nyu",
+          title: 'Received the Tandon Community Excellence Award from NYU',
+          description: "",
+          section: "News",},{id: "news-graduated-with-an-ms-in-electrical-engineering-from-new-york-university",
+          title: 'Graduated with an MS in Electrical Engineering from New York University',
+          description: "",
+          section: "News",},{id: "news-joined-dune-security-as-a-senior-ai-ml-engineer",
+          title: 'Joined Dune Security as a Senior AI/ML Engineer',
+          description: "",
+          section: "News",},{id: "news-published-a-textbook-with-springer-fundamentals-of-communication-theory",
+          title: 'Published a textbook with Springer: Fundamentals of Communication Theory',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
