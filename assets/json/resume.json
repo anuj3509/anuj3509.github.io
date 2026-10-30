@@ -81,8 +81,8 @@
       "url": "https://wireless.engineering.nyu.edu/",
       "startDate": "2025-01-14",
       "endDate": "2025-05-14",
-      "summary": "Developed a 57.51 GHz mmWave channel sounder (Advised by: Prof. Sundeep Rangan).",
-      "highlights": ["Wireless Communications", "Python, Machine Learning"]
+      "summary": "Developed FR3 and mmWave Channel Sounder (Advised by: Prof. Sundeep Rangan)",
+      "highlights": ["Wireless Communications", "Python", "Generative AI"]
     },
     {
       "name": "New York University",
@@ -96,13 +96,13 @@
     },
     {
       "name": "Johnson & Johnson",
-      "position": "Data Scientist",
+      "position": "Machine Learning Engineer",
       "location": "New Brunswick, NJ",
-      "url": "https://www.jnj.com/",
+      "url": "https://thenext.jnjmedtech.com/",
       "startDate": "2024-06-03",
       "endDate": "2024-08-08",
-      "summary": "Built a LLaMA 2 clinical assistant and multimodal ML pipelines over 1M+ patient records.",
-      "highlights": ["Generative AI & Data Science", "PyTorch, HuggingFace, AWS"]
+      "summary": "Developed ML models to improve performance of devices used in open laparoscopic surgeries.",
+      "highlights": ["Generative AI & Data Science", "Python"]
     },
     {
       "name": "Indian Space Research Organization",
