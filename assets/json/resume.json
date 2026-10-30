@@ -6,7 +6,7 @@
     "email": "amp10162@nyu.edu",
     "phone": "347.401.7880",
     "url": "https://www.panuj.com",
-    "summary": "AI/ML Engineer with a research background in machine learning and wireless communications. Builds production LLM agents, RAG systems and recommendation pipelines; co-author of a Springer textbook on communication theory.",
+    "summary": "Senior AI/ML Engineer building agents for AI-powered red-teaming, with a research background in machine learning and wireless communications. Co-author of a Springer textbook on communication theory.",
     "location": {
       "city": "New York",
       "countryCode": "US",
@@ -71,7 +71,7 @@
       "location": "New York, NY",
       "url": "https://www.dune.security/",
       "startDate": "2025-12-01",
-      "summary": "Building LLM agents for AI-driven security red-teaming, including multi-channel and real-time voice agents.",
+      "summary": "Building agents for AI-powered red-teaming, including multi-channel conversational and real-time voice agents.",
       "highlights": ["LLM Agents & Voice AI", "Python, Go, TypeScript, AWS"]
     },
     {
