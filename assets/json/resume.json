@@ -71,14 +71,8 @@
       "location": "New York, NY",
       "url": "https://www.dune.security/",
       "startDate": "2025-12-01",
-      "summary": "Building LLM-powered agents and services for AI-driven security red-teaming.",
-      "highlights": [
-        "Architected red-team-agent, a stateful observe → plan → act agent loop with dual LLMs, persistent session state and a 6-state FSM, integrated with 4 channel gateways (WhatsApp, SMS, Viber, Telegram) targeting 100K users.",
-        "Built persona-service, a Go microservice for Claude Sonnet 4.6 powered persona generation with a Groq test harness and versioned S3 publishing: 99% faster persona builds and 10× campaign throughput.",
-        "Created vishingService, a live voice red-team agent (Groq + Cartesia STT/TTS, Telnyx) with 525 ms p50 turn latency and goal-weighted call scoring.",
-        "Prototyped Knowledge Faceoff, a gamified security-training platform with LLM-generated quizzes from 400+ training transcripts, targeting a 79% lower phishing failure rate.",
-        "Modeled customer risk-score reduction (median 48 → 38 over 1 year), used in enterprise renewals and investor conversations."
-      ]
+      "summary": "Building LLM agents for AI-driven security red-teaming, including multi-channel and real-time voice agents.",
+      "highlights": ["LLM Agents & Voice AI", "Python, Go, TypeScript, AWS"]
     },
     {
       "name": "NYU WIRELESS",
@@ -87,8 +81,8 @@
       "url": "https://wireless.engineering.nyu.edu/",
       "startDate": "2025-01-14",
       "endDate": "2025-05-14",
-      "summary": "Developed a mmWave channel sounder at 57.51 GHz for wireless channel measurements (Advisor: Prof. Sundeep Rangan).",
-      "highlights": ["Wireless Communications", "Machine Learning", "Python"]
+      "summary": "Developed a 57.51 GHz mmWave channel sounder (Advised by: Prof. Sundeep Rangan).",
+      "highlights": ["Wireless Communications", "Python, Machine Learning"]
     },
     {
       "name": "New York University",
@@ -97,11 +91,8 @@
       "url": "https://www.nyu.edu/",
       "startDate": "2024-01-22",
       "endDate": "2024-12-20",
-      "summary": "Built RAG and recommendation systems for students and staff.",
-      "highlights": [
-        "Productionized a RAG-powered chatbot (LangChain, OpenAI APIs, Pinecone) for natural-language search over 100+ academic and policy documents with sub-300 ms median latency.",
-        "Engineered retrieval and recommendation pipelines (text-embedding-ada-002, FastAPI, PostgreSQL) in a Docker CI/CD environment, powering course recommendations for 5K+ students."
-      ]
+      "summary": "Built a RAG chatbot and course-recommendation pipelines serving 5K+ students.",
+      "highlights": ["RAG & Recommendation Systems", "LangChain, FastAPI, PostgreSQL, Docker"]
     },
     {
       "name": "Johnson & Johnson",
@@ -110,11 +101,8 @@
       "url": "https://www.jnj.com/",
       "startDate": "2024-06-03",
       "endDate": "2024-08-08",
-      "summary": "Built LLM and multimodal ML systems for clinical use.",
-      "highlights": [
-        "Led development of a clinical assistant using LLaMA 2-7B with QLoRA and PEFT over 1M+ anonymized patient records, reducing query time by 46% across 450+ daily clinical queries in the pilot.",
-        "Built a real-time multimodal ML pipeline (text, imaging, vitals) with PyTorch, HuggingFace and AWS, achieving a 28% lift in outcome-prediction accuracy and scaling to 20M+ patient records."
-      ]
+      "summary": "Built a LLaMA 2 clinical assistant and multimodal ML pipelines over 1M+ patient records.",
+      "highlights": ["Generative AI & Data Science", "PyTorch, HuggingFace, AWS"]
     },
     {
       "name": "Indian Space Research Organization",
@@ -125,6 +113,16 @@
       "endDate": "2023-05-31",
       "summary": "Researched on various measures to improve space-to-ground BB84 Quantum Key Distribution processes.",
       "highlights": ["Free Space Optics & Wireless Communications", "MATLAB, Python, C/C++, FPGA, LabVIEW"]
+    },
+    {
+      "name": "Indian Oil Corporation Ltd.",
+      "location": "Vadodara, India",
+      "position": "Network & Instrumentation Intern",
+      "url": "https://iocl.com/",
+      "startDate": "2022-05-20",
+      "endDate": "2022-07-16",
+      "summary": "Examined MPLS and SD-WAN technologies in the M(IS) department & optimized the intricate operations of the preliminary refining pipelines in Atmospheric Unit (AU) IV.",
+      "highlights": ["Network Design and Security", "TCP/IP, Wireshark, Bash"]
     }
   ],
   "awards": [

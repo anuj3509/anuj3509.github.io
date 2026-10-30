@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Senior AI/ML Engineer at <a href='https://www.dune.security/'>Dune Security</a> · <a href='/assets/pdf/Resume_Anuj.pdf'>Resume</a>
+subtitle: <a href='/assets/pdf/Resume_Anuj.pdf'>View Resume</a>
 
 profile:
   align: right
@@ -17,14 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I build **AI agents and ML systems** that run in production, and I bring a research background to them.
+Turning **Data into Decisions** that Matter.
 
-I'm a Senior AI/ML Engineer at [Dune Security](https://www.dune.security/), where I build LLM-powered systems for security red-teaming. They include a stateful multi-channel red-team agent, a real-time voice agent with 525 ms turn latency, and a Go service that generates attack personas with Claude.
+I'm a Senior AI/ML Engineer at [Dune Security](https://www.dune.security/), where I build LLM agents for security red-teaming. Previously, I built RAG and recommendation systems at [New York University](https://www.nyu.edu/) and LLM tools for clinical use at [Johnson & Johnson](https://www.jnj.com/).
 
-Before Dune, I was an AI/ML Engineer at [New York University](https://www.nyu.edu/), shipping a RAG chatbot and course-recommendation pipelines for 5K+ students. Before that, I was a Data Scientist at [Johnson & Johnson](https://www.jnj.com/), where I fine-tuned LLaMA 2 with QLoRA into a clinical assistant over 1M+ patient records.
-
-My research is in machine learning and wireless communications. At [NYU WIRELESS](https://wireless.engineering.nyu.edu/), advised by Prof. [Sundeep Rangan](https://engineering.nyu.edu/faculty/sundeep-rangan), I built a 57.51 GHz mmWave channel sounder and worked on GAN-based channel estimation for massive MIMO. Before that, I researched quantum key distribution at [ISRO](https://www.isro.gov.in/). With Prof. [Unnikrishna Pillai](https://engineering.nyu.edu/faculty/unnikrishna-pillai), I co-authored the Springer textbook [_Fundamentals of Communication Theory: Analog to Digital_](https://doi.org/10.1007/978-3-032-20615-2).
-
-I hold an MS in [Electrical Engineering](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering) from [NYU Tandon](https://engineering.nyu.edu/). Day to day I work in Python, Go and TypeScript with PyTorch, HuggingFace, vLLM, LangGraph and AWS.
+I hold an MS in Electrical Engineering from [NYU Tandon](https://engineering.nyu.edu/). There I researched mmWave channel sounding at [NYU WIRELESS](https://wireless.engineering.nyu.edu/) with Prof. [Sundeep Rangan](https://engineering.nyu.edu/faculty/sundeep-rangan), and co-authored the Springer textbook [_Fundamentals of Communication Theory_](https://doi.org/10.1007/978-3-032-20615-2) with Prof. [Unnikrishna Pillai](https://engineering.nyu.edu/faculty/unnikrishna-pillai).
 
 Let's [connect](https://www.linkedin.com/in/panuj/)!

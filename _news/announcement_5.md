@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated with an MS in Electrical Engineering from [NYU Tandon](https://engineering.nyu.edu/)
+Graduated with an MS in Electrical Engineering from [New York University](https://www.nyu.edu/)
